@@ -1,0 +1,5 @@
+#[target.aarch64-linux-android]
+#linker = "C:/Users/nsxyl/android-sdk/ndk/27.0.11718014/toolchains/llvm/prebuilt/windows-x86_64/bin/aarch64-linux-android30-clang.cmd"
+#
+#[target.x86_64-linux-android]
+#linker = "C:/Users/nsxyl/android-sdk/ndk/27.0.11718014/toolchains/llvm/prebuilt/windows-x86_64/bin/x86_64-linux-android30-clang.cmd"
